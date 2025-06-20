@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -96,7 +95,7 @@
 </head>
 <body>
     <header>
-        <img src="logo.png" alt="RioFly Aviation Logo" style="max-width: 150px; display: block; position: absolute; top: 20px; left: 20px;">
+        <img src="https://media.discordapp.net/attachments/1268995649362333760/1385640335224340571/1750373219340.png?ex=6856cd9f&is=68557c1f&hm=4a5f402a3e5e1314ea0b3fa737dadae930add7bc5311fe0a818f5485e7a1dc1f&=&format=webp&quality=lossless&width=652&height=647" alt="RioFly Aviation Logo" style="max-width: 150px; display: block; position: absolute; top: 20px; left: 20px;">
         <h1>RioFly Aviation</h1>
         <p>Táxi Aéreo - Conectando Destinos com Excelência!</p>
     </header>
