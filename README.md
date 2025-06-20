@@ -138,7 +138,7 @@
 </section>
 <section id="contato">
         <h2>Contato</h2>
-        <p>📧 Email: contato@rioflyaviation.com</p>
+        <p>📧 Email: rioflyaviation@gmail.com</p>
         <p>💬 Discord: <a href="https://discord.gg/q4kZJX47" target="_blank">Clique aqui para entrar no nosso servidor</a></p>
         <p>📍 Base: SBJR - Jacarepaguá, Rio de Janeiro</p>
     </section>
