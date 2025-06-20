@@ -93,15 +93,15 @@
             margin: 0;
         }
     </style>
+
 </head>
 <body>
     <header>
         <img src="https://media.discordapp.net/attachments/1268995649362333760/1385640335224340571/1750373219340.png?ex=6856cd9f&is=68557c1f&hm=4a5f402a3e5e1314ea0b3fa737dadae930add7bc5311fe0a818f5485e7a1dc1f&=&format=webp&quality=lossless" alt="RioFly Aviation Logo" style="max-width: 150px; display: block; position: absolute; top: 20px; left: 20px; background-color: transparent;">
-
+        
         <h1>RioFly Aviation</h1>
         <p>Táxi Aéreo - Conectando Destinos com Excelência!</p>
     </header>
-
     <nav>
         <ul>
             <li><a href="#home">Início</a></li>
@@ -111,48 +111,38 @@
             <li><a href="#contato">Contato</a></li>
         </ul>
     </nav>
-
     <div class="banner" id="home">
         <h2>Voe alto com segurança, conforto e tecnologia de ponta!</h2>
     </div>
-
     <section id="sobre">
         <h2>Sobre Nós</h2>
         <p>A RioFly Aviation é referência em táxi aéreo executivo no Rio de Janeiro. Baseados em Jacarepaguá (SBJR), oferecemos soluções de transporte aéreo sob medida, com foco em segurança, agilidade e atendimento personalizado.</p>
     </section>
-
-    <section id="frota">
-        <h2>Nossa Frota</h2>
-        <p>Dispomos de aeronaves modernas e versáteis para diferentes tipos de missão. Desde turboélices eficientes até jatos executivos de alto desempenho, nossa frota garante conforto e pontualidade em cada voo.</p>
-    </section>
-
     <section id="servicos">
-        <h2>Serviços</h2>
-        <ul>
-            <li>Atendemos todo o Brasil</li>
-            <li>Destinos mais requisitados:
-                <ul>
-                    <li>Angra dos Reis</li>
-                    <li>São Paulo (Congonhas / Campo de Marte)</li>
-                    <li>Búzios</li>
-                    <li>Belo Horizonte</li>
-                    <li>Brasília</li>
-                </ul>
-            </li>
-            <li>Voos fretados</li>
-            <li>Transporte VIP</li>
-            <li>Voos de turismo</li>
-            <li>Eventos e campanhas especiais</li>
-        </ul>
-    </section>
-
-    <section id="contato">
+    <h2>Serviços</h2>
+    <ul>
+        <li>Atendemos todo o Brasil</li>
+        <li>Destinos mais requisitados:
+            <ul>
+                <li>Angra dos Reis</li>
+                <li>São Paulo (Congonhas / Campo de Marte)</li>
+                <li>Búzios</li>
+                <li>Belo Horizonte</li>
+                <li>Brasília</li>
+            </ul>
+        </li>
+        <li>Voos fretados</li>
+        <li>Transporte VIP</li>
+        <li>Voos de turismo</li>
+        <li>Eventos e campanhas especiais</li>
+    </ul>
+</section>
+<section id="contato">
         <h2>Contato</h2>
         <p>📧 Email: contato@rioflyaviation.com</p>
         <p>💬 Discord: <a href="https://discord.gg/q4kZJX47" target="_blank">Clique aqui para entrar no nosso servidor</a></p>
         <p>📍 Base: SBJR - Jacarepaguá, Rio de Janeiro</p>
     </section>
-
     <footer>
         <p>&copy; 2025 RioFly Aviation - Todos os direitos reservados.</p>
     </footer>
