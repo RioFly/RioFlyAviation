@@ -91,6 +91,33 @@
         footer p {
             margin: 0;
         }
+            @media (max-width: 768px) {
+            header h1 {
+                font-size: 2em;
+            }
+            header p {
+                font-size: 1em;
+            }
+            nav ul {
+                flex-direction: column;
+                align-items: center;
+            }
+            nav li {
+                margin: 10px 0;
+            }
+            .banner h2 {
+                font-size: 1.8em;
+            }
+            section {
+                padding: 10px;
+                margin: 20px auto;
+            }
+            img[alt="RioFly Aviation Logo"] {
+                position: static;
+                display: block;
+                margin: 0 auto 10px auto;
+            }
+        }
     </style>
 </head>
 <body>
