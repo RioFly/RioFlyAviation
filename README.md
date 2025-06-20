@@ -1,16 +1,16 @@
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RioFly Aviation - Táxi Aéreo</title>
     <style>
         body {
-            font-family: 'Helvetica Neue', Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #ffffff;
-            color: #333;
-        }
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    color: #333;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
         header {
             background: linear-gradient(135deg, #002244, #004488);
             color: white;
@@ -19,22 +19,25 @@
             position: relative;
         }
         header h1 {
-            margin: 0;
-            font-size: 3.5em;
-            letter-spacing: 2px;
-        }
+    margin: 0;
+    font-size: 2.2em;
+    letter-spacing: 2px;
+    line-height: 1.2;
+    word-wrap: break-word;
+}
         header p {
             font-size: 1.3em;
             margin-top: 10px;
         }
         nav ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            background-color: #001d3d;
-        }
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #001d3d;
+    flex-wrap: wrap;
+}
         nav li {
             margin: 0 20px;
         }
@@ -65,10 +68,10 @@
             text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
         }
         section {
-            max-width: 1200px;
-            margin: 40px auto;
-            padding: 20px;
-        }
+    max-width: 95%;
+    margin: 20px auto;
+    padding: 10px;
+}
         section h2 {
             color: #002244;
             border-bottom: 2px solid #004488;
