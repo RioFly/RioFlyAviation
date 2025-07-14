@@ -1,3 +1,4 @@
+
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
@@ -130,7 +131,7 @@
 </head>
 <body>
   <header>
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAKgCAYAAAC1Fg9zAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAgAElEQVR4nOzdd5gcZ7oH8C9zBDfN..." alt="RioFly Aviation Logo" class="logo">
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAQACAYAAAB/HSuDAAEAAElEQVR4nOz9eZCt933fd76f/Txn30+f3rvvvmDfCIALuJNaSJky5YlkWxpnJk4mcRYnnsw4lQwn42SWpCpTmYodVyLvGkugKYmkxJ0CCJAEAWLHBXDX7r69nj77/jzPebb540CdZKqcOLKoS4Df158X996653lOV+H3+X0XEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQggh" alt="RioFly Aviation Logo" class="logo">
     <h1>RioFly Aviation</h1>
     <p>Táxi Aéreo - Conectando Destinos com Excelência!</p>
   </header>
